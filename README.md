@@ -13,3 +13,7 @@ Data set has 20 columns and 5630 rows or records.
 
 # Project Poster:
 <img width="387" alt="image" src="https://github.com/Nishu1996/Customer-Churn-Analysis-and-Prediction-using-Python/assets/26360936/7e1503e8-1e71-4c98-8b95-3aabded2f599">
+
+# Setting up and Running the Project:
+
+Download the Python file & open it in Google Collab. Download the dataset from Kaggle source and upload it in Google Colab local environment and run the code blocks.
