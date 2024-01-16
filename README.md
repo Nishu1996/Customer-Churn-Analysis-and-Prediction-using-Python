@@ -8,6 +8,7 @@ A predictive model using ML algorithms for analyzing customer attrition in the E
 
 # Data Source:
 Kaggle: https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction/data
+
 Data set has 20 columns and 5630 rows or records.
 
 # Project Poster:
