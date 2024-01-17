@@ -3,7 +3,9 @@ A predictive model using ML algorithms for analyzing customer attrition in the E
 
 # Project Objective:
 • Identify the key features that affect E-comm customer attrition.
+
 • Identify the optimal algorithm from Logistic Regression, Decision Tree and Random Forest that can accurately predict customer churn based on evaluation of performance metrics.
+
 • Provide customer retention strategies based on insights gained from the analysis.
 
 # Data Source:
